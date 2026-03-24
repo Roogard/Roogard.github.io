@@ -1,16 +1,10 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Overview
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
-
----
-layout: single
-title: "Aidan Root"
-author_profile: true
 ---
 
 Master’s student focused on AI agents, reinforcement learning, machine learning, and LLM systems. Graduating on May 21st 2026 and looking for employment. 
