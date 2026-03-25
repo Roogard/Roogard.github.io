@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "About Me"
+title: "Portfolio"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
-  - /aboutme/
+
 ---
 
 Master’s student focused on AI agents, reinforcement learning, machine learning, and LLM systems. Graduating on May 21st 2026 and looking for employment. 
