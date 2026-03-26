@@ -5,6 +5,6 @@ permalink: /resume/
 author_profile: true
 ---
 
-You can view or download my resume here:
+<embed src="/files/resume.pdf" type="application/pdf" width="100%" height="800px" />
 
-[Download Resume](assets/resume.pdf)
+<a href="/files/resume.pdf" download>Download Resume (PDF)</a>
