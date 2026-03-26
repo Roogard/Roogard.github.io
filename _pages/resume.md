@@ -5,4 +5,6 @@ permalink: /resume/
 author_profile: true
 ---
 
-insert resume here
+You can view or download my resume here:
+
+[Download Resume](assets/resume.pdf)
