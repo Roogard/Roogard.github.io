@@ -4,4 +4,6 @@ title: "Resume"
 permalink: /resume/
 ---
 
-insert resume here
+You can view or download my resume here:
+
+[Download Resume](assets/resume.pdf)
